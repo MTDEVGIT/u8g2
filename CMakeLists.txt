@@ -87,6 +87,6 @@ set(COMPONENT_SRCS "csrc/u8x8_setup.c"
                     "csrc/u8x8_u16toa.c"
                     "csrc/u8x8_d_a2printer.c"
                     "csrc/u8x8_d_st7565.c")
-set(COMPONENT_NAME ".")
+set(COMPONENT_NAME "u8g2")
 
 register_component()
